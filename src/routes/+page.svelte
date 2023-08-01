@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		Hej Nina!
+		Hej!
 	</h1>
 
 	<h2>
