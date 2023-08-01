@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		Hej Nina!
 	</h1>
 
 	<h2>
